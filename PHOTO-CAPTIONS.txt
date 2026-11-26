@@ -23,9 +23,9 @@ Engineering context: Internal electronics, power distribution and mechanical ass
 What I saw: I saw the PCB, connectors, rollers and mechanical components at closer range.
 Engineering context: This shows how electronic control and moving components interact; connectors and mechanisms are useful inspection points during troubleshooting.
 
-07 | Equipment chamber
-What I saw: I observed an equipment chamber with a large door and mechanical locking assembly. The exact device type is unconfirmed.
-Engineering context: Chamber construction, sealing and interlocks are engineering considerations for equipment that encloses a controlled process.
+07 | Sterilization machine
+What I saw: I observed a sterilization machine with a large chamber door and mechanical locking assembly, used for sterilizing medical instruments and equipment.
+Engineering context: Sterilization effectiveness depends on validated cycle parameters and proper loading. Chamber sealing, door locking, and safety interlocks are important for safe operation.
 
 08 | Chamber door detail
 What I saw: I saw a radial locking mechanism on the chamber door, consistent with sterilization equipment.
