@@ -1,0 +1,1 @@
+V22: eight resume sections; one-page PDF visually inspected; all text matches standalone HTML; embedded PDF matches separate file; non-resume website HTML unchanged; all artwork and comic files byte-identical. Browser regression not performed.

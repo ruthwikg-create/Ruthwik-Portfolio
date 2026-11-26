@@ -1,0 +1,128 @@
+INTERNSHIP
+01 | Radiography room
+What I saw: I saw the radiography table, X-ray tube assembly and positioning system in the hospital imaging room.
+Engineering context: The positioning assembly aligns the patient and imaging beam. This is relevant to image quality, mechanical alignment and radiation safety.
+
+02 | CT scanner
+What I saw: I observed the circular CT gantry and the motorized patient couch.
+Engineering context: CT uses X-ray projections to reconstruct cross-sectional images; the gantry and couch must work together accurately.
+
+03 | Mammography system
+What I saw: I saw dedicated breast-imaging equipment, including its compression and positioning assembly.
+Engineering context: Mammography uses controlled compression and specialized X-ray imaging to obtain detailed breast images.
+
+04 | Hemodialysis equipment
+What I saw: I observed a dialysis machine with connected tubing and fluid containers in a clinical setting.
+Engineering context: Hemodialysis uses an extracorporeal blood circuit and dialysate to remove waste and excess fluid. Pumps, sensors and alarms are essential to the system.
+
+05 | Internal electronic assembly
+What I saw: I examined the visible circuit board and mechanical assemblies inside an opened equipment enclosure.
+Engineering context: Internal electronics, power distribution and mechanical assemblies are important in component-level fault isolation and maintenance.
+
+06 | PCB and mechanism detail
+What I saw: I saw the PCB, connectors, rollers and mechanical components at closer range.
+Engineering context: This shows how electronic control and moving components interact; connectors and mechanisms are useful inspection points during troubleshooting.
+
+07 | Equipment chamber
+What I saw: I observed an equipment chamber with a large door and mechanical locking assembly. The exact device type is unconfirmed.
+Engineering context: Chamber construction, sealing and interlocks are engineering considerations for equipment that encloses a controlled process.
+
+08 | Chamber door detail
+What I saw: I saw a radial locking mechanism on the chamber door, consistent with sterilization equipment.
+Engineering context: A secure door and interlocking mechanism help prevent unintended opening. The equipment type and operating conditions need confirmation.
+
+09 | Medical equipment demonstration
+What I saw: I observed a medical equipment setup with a control panel, tubing and fluid or collection containers.
+Engineering context: The arrangement illustrates fluid handling and operator controls. The specific clinical function and model are not confirmed.
+
+10 | Exercise testing system
+What I saw: I saw a treadmill and adjacent console consistent with a cardiac exercise-testing setup.
+Engineering context: Exercise stress testing combines controlled physical workload with physiological monitoring, commonly including ECG.
+
+11 | Echocardiography display
+What I saw: I observed cardiac ultrasound images and a color Doppler view on the Philips display.
+Engineering context: Echocardiography visualizes heart structure and motion; color Doppler provides information about blood-flow direction and velocity.
+
+12 | Waveform workstation
+What I saw: I saw a portable waveform instrument connected to a workstation with an additional computer display.
+Engineering context: Waveform acquisition and display are central to biomedical instrumentation. The exact instrument and signal type are not established by the photo.
+
+13 | Interventional imaging room
+What I saw: I observed a procedure table, overhead imaging assembly and multiple monitors in an interventional imaging room.
+Engineering context: Image-guided procedures depend on coordinated imaging, patient positioning and display systems. The photograph does not establish which procedure was performed.
+
+DRIVER
+01 | Prototype demonstration
+What I saw: I presented my physical Driver Safety Alarm System prototype at an academic project event.
+Engineering context: The project demonstrates an embedded safety concept that uses sensing and alert logic to respond to potentially unsafe driver conditions.
+
+02 | Project discussion
+What I saw: I discussed the prototype during the project presentation with an event participant.
+Engineering context: The discussion provides a practical opportunity to communicate the design, intended use and engineering trade-offs.
+
+03 | Prototype close-up
+What I saw: This photograph shows the handheld prototype, enclosure and visible wiring during the demonstration.
+Engineering context: The design combines embedded hardware and an alert mechanism. The photograph documents the build, not a validated road-safety performance result.
+
+WORKSHOP
+01 | Workshop teaching session
+What I saw: I attended a teaching session in the Biomedical Engineering department at Osmania University.
+Engineering context: The session provided context for connecting classroom concepts with medical-equipment exposure; the exact presentation topic is not legible.
+
+02 | Equipment workshop group
+What I saw: I participated in the workshop group session near medical equipment and its displays.
+Engineering context: The photograph documents equipment exposure in a teaching environment, not independent operation or maintenance of the pictured devices.
+
+AMTZ
+01 | WTC AMTZ campus
+What I saw: I visited the World Trade Center AMTZ campus in Visakhapatnam during the industrial visit.
+Engineering context: AMTZ provides a setting for observing how medical-device companies, research and manufacturing facilities operate together.
+
+02 | Manufacturing demonstration
+What I saw: I observed a guide demonstrating a small component and explaining equipment in a manufacturing area.
+Engineering context: Medical-device production depends on component geometry, material handling and controlled manufacturing processes.
+
+03 | Component demonstration
+What I saw: I saw a small component being shown to the visiting group.
+Engineering context: Component demonstrations help connect the physical design of a medical product with its intended function. The exact component is not confirmed.
+
+04 | Catheter-like component
+What I saw: I saw a thin, flexible catheter-like component with a blue connector.
+Engineering context: Catheter design involves flexibility, dimensional consistency and suitable connections. The exact catheter type is not established.
+
+05 | Mechanical testing equipment
+What I saw: I observed a benchtop mechanical testing apparatus and a demonstration.
+Engineering context: Mechanical testing is used to study properties such as strength, deformation, stress and strain. The exact test protocol is not confirmed.
+
+06 | Prototyping and assembly area
+What I saw: I saw a laboratory workspace where a guide explained equipment and materials.
+Engineering context: Prototyping and assembly connect design decisions with physical fabrication, tooling and product development.
+
+07 | OMNYK India facility sign
+What I saw: I visited the area identified by the OMNYK India facility sign within AMTZ.
+Engineering context: The photograph documents industry exposure; specific company products or activities are not inferred from the sign alone.
+
+08 | PHYTEC Embedded facility sign
+What I saw: I saw the PHYTEC Embedded facility signage during the campus tour.
+Engineering context: Embedded technology is relevant to medical-device electronics, sensing and control. The photo does not establish a specific manufacturing process.
+
+09 | Industry briefing
+What I saw: I attended a briefing from a facility representative with the visiting group.
+Engineering context: Industry briefings provide context for the relationship between engineering design, product development and industrial workflows.
+
+10 | Manufacturing floor briefing
+What I saw: I observed a manufacturing-floor briefing near production equipment.
+Engineering context: A production environment illustrates the role of equipment, tooling and repeatable processes in medical-device manufacturing.
+
+11 | Precision machinery close-up
+What I saw: I saw the internal tooling of a precision manufacturing mechanism at close range.
+Engineering context: Precise motion and tool alignment are relevant to consistent component fabrication; the exact operation is not confirmed.
+
+12 | Automated production equipment
+What I saw: I observed the wider automated manufacturing machine, including its tooling and control interface.
+Engineering context: Automation integrates control, motion and tooling to support repeatable production. The specific manufacturing cycle is unverified.
+
+13 | Critical care technology exhibit
+What I saw: I saw an educational exhibit showing different categories of critical-care equipment.
+Engineering context: The display connects monitoring, respiratory support, infusion and other medical technologies within the broader critical-care environment.
+AMTZ video: Surgical staple pin manufacturing machine (identified by the portfolio owner). Audio removed for privacy.
